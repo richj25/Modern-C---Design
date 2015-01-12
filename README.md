@@ -1,4 +1,4 @@
 Modern-C---Design
 =================
 
-Implementations of concepts for the book
+Implementations of concepts from the book: Modern C++ Design by Andrei Alexandrescu
